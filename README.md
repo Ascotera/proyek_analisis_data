@@ -1,15 +1,12 @@
-# Dicoding Collection Dashboard ✨
+# Proyek Analisis Data Dicoding ✨
 
-## Setup Environment - Shell/Terminal
+## install library
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
-pipenv install
-pipenv shell
 pip install -r requirements.txt
 ```
 
 ## Run steamlit app
 ```
+cd dashboard
 streamlit run dashboard.py
 ```
